@@ -68,7 +68,7 @@ sections:
       - "xxx - Best Food Today"
     titleColor: "#ffffff"
     description: 
-      - "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et."
+      - "This is my demo site!"
     descriptionColor: "#ffffff"
     # title2: 
     #   - ""
