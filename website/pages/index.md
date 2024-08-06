@@ -65,7 +65,7 @@ sections:
     bgColor: "#000000"
     bgOpacity: "0.2" # 0~1
     title: 
-      - "xxx - Best Food Today"
+      - "ABC - DEMO SITE"
     titleColor: "#ffffff"
     description: 
       - "This is my demo site!"
